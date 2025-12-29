@@ -17,10 +17,10 @@ The dataset reflects real-world movie data and is suitable for both beginners an
 ## 🔗 Kaggle Dataset & Notebook
 
 - 📦 Kaggle Dataset:  
-  [https://www.kaggle.com/datasets/YOUR_KAGGLE_USERNAME/tmdb-top-rated-movies](https://www.kaggle.com/datasets/doreshkumawat/tmdb-top-rated-movies-dataset-for-eda-and-ml-10k)
+  [link](https://www.kaggle.com/datasets/doreshkumawat/tmdb-top-rated-movies-dataset-for-eda-and-ml-10k)
 
 - 📓 Kaggle Notebook (EDA & ML):  
-  [https://www.kaggle.com/code/YOUR_KAGGLE_USERNAME/tmdb-top-rated-movies-eda-ml](https://www.kaggle.com/code/doreshkumawat/tmdb-top-rated-movies-eda-ml-ipynb)
+  [link](https://www.kaggle.com/code/doreshkumawat/tmdb-top-rated-movies-eda-ml-ipynb)
 
 
 ## 📊 Dataset Details

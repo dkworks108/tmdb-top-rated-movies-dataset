@@ -70,6 +70,11 @@ The dataset reflects real-world movie data and is suitable for both beginners an
 
 ---
 
+## License
+Database: Open Database, Contents: Database Contents
+
+---
+
 ## 📁 Repository Structure
 
 ```text
